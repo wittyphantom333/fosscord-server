@@ -1,4 +1,4 @@
-FROM node:14
+FROM node:18.9.1-slim
 WORKDIR /usr/src/fosscord-server/
 COPY . .
 WORKDIR /usr/src/fosscord-server/bundle
