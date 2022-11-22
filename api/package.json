@@ -69,7 +69,7 @@
 		"@sentry/tracing": "^6.16.1",
 		"ajv": "8.11.0",
 		"ajv-formats": "^2.1.1",
-		"amqplib": "^0.8.0",
+		"amqplib": "^0.10.3",
 		"assert": "^1.5.0",
 		"bcrypt": "^5.0.1",
 		"body-parser": "^1.19.0",
